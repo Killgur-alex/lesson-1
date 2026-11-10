@@ -17,4 +17,4 @@ def solution(a, b, c):
         print (f'Уравнение имеет один корень: х = {d}.')
         return d
     else:
-        return 'Корней нет'
+        return 'Корней нет и даже не жди :)'
